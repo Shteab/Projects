@@ -1,0 +1,6 @@
+Average Income per month: 5498.08
+Average Mortgage/rent per month: 1456.00
+Average car payment per month: 475.00
+Average groceries/food per month: 300.00
+Phone bill average per month: 141.00
+Utilites average per month: 200.00 

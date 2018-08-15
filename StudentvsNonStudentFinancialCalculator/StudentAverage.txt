@@ -1,0 +1,7 @@
+Student Montly average income per month: 1377.60
+Student tuiton average per month: 469.67
+Student Mortgage/rent average per month: 1051.83
+Student Car Payment average per month: 361.00
+Student Grocieries/food a month per month: 175.00
+Student Phone bill average per month: 141.00
+Student Utilites average per month: 200.00
