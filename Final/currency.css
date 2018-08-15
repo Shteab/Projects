@@ -1,0 +1,73 @@
+/* Id style */
+#container{width: 960px;
+  					margin: auto;}
+#euro{display: none;}
+
+#renminbi{display: none;}
+
+#peso{display: none;}
+
+#swiss{display: none;}
+
+#clickeuro{color: blue;
+           font-size: .8em;}
+					 
+#clickrenminbi{color: blue;
+           font-size: .8em;}	
+					 		 
+#clickpeso{color: blue;
+           font-size: .8em;}
+					 
+#clickswiss{color: blue;
+           font-size: .8em;}
+					 
+
+#slideshow #slideshowWindow {
+width:960px;
+height:546px;
+
+padding:0;
+overflow: hidden;
+}
+ #slideshowWindow{margin: 0 auto;}
+
+#slideshow #slideshowWindow .slide {
+margin:0;
+padding:0;
+width:960px;
+height:546px;
+float: left;
+position:relative;
+}
+
+body{text-align: center;
+     background-image: url("background.jpg");
+		 background-size: 100% 100%;}
+header{}
+nav{margin-top: 0px;
+	height: 3em;
+	}
+nav ul{display: block;
+	color: ivory;
+	background-color: black;
+	height: 3em;
+	width: 920px;
+	margin: auto;
+	list-style-type: none;
+	}
+nav ul li{display: inline-block;
+	width: 16%;
+	height: 3em;
+	padding-top: 1em;}
+	
+nav a:link, a:active, a:visited{color: white;
+								text-decoration: none;}
+
+ul{width: 20%;
+	margin: auto;}
+
+ul.fix{width: 20%;
+	margin: auto;
+	
+
+	
