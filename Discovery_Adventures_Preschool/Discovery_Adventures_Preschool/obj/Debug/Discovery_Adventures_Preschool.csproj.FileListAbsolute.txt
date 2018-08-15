@@ -1,0 +1,6 @@
+D:\C#\Final\Discovery_Adventures_Preschool\Discovery_Adventures_Preschool\bin\Debug\Discovery_Adventures_Preschool.exe.config
+D:\C#\Final\Discovery_Adventures_Preschool\Discovery_Adventures_Preschool\bin\Debug\Discovery_Adventures_Preschool.exe
+D:\C#\Final\Discovery_Adventures_Preschool\Discovery_Adventures_Preschool\bin\Debug\Discovery_Adventures_Preschool.pdb
+D:\C#\Final\Discovery_Adventures_Preschool\Discovery_Adventures_Preschool\obj\Debug\Discovery_Adventures_Preschool.csprojResolveAssemblyReference.cache
+D:\C#\Final\Discovery_Adventures_Preschool\Discovery_Adventures_Preschool\obj\Debug\Discovery_Adventures_Preschool.exe
+D:\C#\Final\Discovery_Adventures_Preschool\Discovery_Adventures_Preschool\obj\Debug\Discovery_Adventures_Preschool.pdb
